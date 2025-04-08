@@ -37,11 +37,9 @@ A passionate Software Developer currently working on **JennyFairy E-Commerce** a
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mandat0911&show_icons=true&locale=en" alt="mandat0911" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandat0911&" alt="mandat0911" /></p>
-
 ## 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mandat/))
+- [Portfolio]([https://your-portfolio.com](https://www.linkedin.com/in/mandat/))
 
 ## 🛠️ Languages and Tools:
 <p align="left">
